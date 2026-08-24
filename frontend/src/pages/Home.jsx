@@ -1,9 +1,9 @@
-import { Homecontent } from "../components/Homecontent";
-import { Nav } from "../components/Nav";
+import { Homecontent } from "../components/HomeComponents/Homecontent";
+import { Nav } from "../components/NavComponent/Nav";
 import finalhomepic from "../assets/images/finalhomepic2.webp";
 const HomePage = () => {
   return(
-    <div className="min-h-screen bg-black  flex justify-center items-center">
+    <div id="home" className="min-h-screen bg-black  flex justify-center items-center">
    
 
       <div className="">
