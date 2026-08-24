@@ -5,7 +5,7 @@ export const Map = () =>{
  return(
   
   
-  <div className='h-'>
+  <div className='h-80 '>
     
    
 
