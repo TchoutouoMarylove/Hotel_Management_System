@@ -11,7 +11,7 @@ import toilet from '../assets/images/FalaiseServices/toilet.jpeg'
 
 export const TheHotel = ()=>{
   return(
-    <div className='h-140 w-full bg-[#F7F3EE] grid grid-cols-2 py-8'>
+    <div id='hotel' className='h-140 w-full bg-[#F7F3EE] grid grid-cols-2 py-8'>
     
     <div>
       <div className='mb-10 ml-12 text-3xl font-arial font-bold ml-30'>
